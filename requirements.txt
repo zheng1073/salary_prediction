@@ -1,6 +1,6 @@
 numpy==1.21.4
 streamlit==1.2.0
-matplotlib
-pandas
-pickle
+matplotlib==*
+pandas==*
+pickle==*
 
